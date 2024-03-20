@@ -1,4 +1,4 @@
-### Hi👋, I'm Dongbin Zhang, a rookie student.
+### Hi👋, I'm Dongbin Zhang, a student.
 
 <!--
 **EastbeanZhang/EastbeanZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
