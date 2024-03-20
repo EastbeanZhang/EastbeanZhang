@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋, I'm Dongbin Zhang, a rookie student currently pursuing a master's degree at CN. I'm constantly seeking opportunities to learn and grow in 3D Computer Vision.
 
 <!--
 **EastbeanZhang/EastbeanZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
