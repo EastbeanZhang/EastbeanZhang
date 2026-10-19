@@ -2,6 +2,8 @@
 
 I currently work on the GWM (Generative World Model) team at [XPeng](https://www.xpeng.com/).
 
+I received my M.S. from [Tsinghua University](https://www.tsinghua.edu.cn/en/) and my B.Eng. from [South China University of Technology](https://www.scut.edu.cn/).
+
 My research interests lie in world models, video generation, and 3D vision.
 
 🌐 [Personal Homepage](https://eastbeanzhang.github.io/)
