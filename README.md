@@ -1,5 +1,11 @@
 ### Hi👋, I'm Dongbin Zhang.
 
+I currently work on the GWM (Generative World Model) team at [XPeng](https://www.xpeng.com/).
+
+My research interests lie in world models, video generation, and 3D vision.
+
+🌐 [Personal Homepage](https://eastbeanzhang.github.io/)
+
 <!--
 **EastbeanZhang/EastbeanZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  currently pursuing a master's degree at CN. I'm constantly seeking opportunities to learn and grow in 3D Computer Vision.
